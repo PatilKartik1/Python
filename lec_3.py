@@ -24,24 +24,24 @@ students[0]="Arjun"
 print(students[0])'''
 
 '''#List methods
-num=[2,1,3] 
+list=[2,1,3] 
 fruit=["banana", "lichie", "apple", "orange"]
-# print(num)
+# print(list)
 
 # #APPEND
 
-# num.append(4)
-# print(num)
-# print(num.append(4))
+# list.append(4)
+# print(list)
+# print(list.append(4))
 
 # #SORTING
 
-# num.sort()
-# print(num)
-# print(num.sort())
+# list.sort()
+# print(list)
+# print(list.sort())
 
-# num.sort(reverse=True)
-# print(num)
+# list.sort(reverse=True)
+# print(list)
 
 # fruit.sort()
 # print(fruit)
@@ -53,18 +53,18 @@ print(fruit)
 
 #INSERT
 
-num.insert(1,5)
-print(num)
+list.insert(1,5)
+print(list)
 
 #REMOVAL
 
-num.remove(1)
-print(num)
+list.remove(1)
+print(list)
 
 #POP
 
-num.pop(2)
-print(num)'''
+list.pop(2)
+print(list)'''
 
 
 #TUPLES
@@ -85,6 +85,6 @@ print(tup.index(95))
 
 #COUNT
 
-print(tup.count(95))
+print(tup.count(95))  
 
 
