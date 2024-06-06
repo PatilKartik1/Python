@@ -78,9 +78,35 @@ for i in range(100):
 for i in range(100,0,-1):
     print(i)'''
     
-#Q10
+'''#Q10
 
 n = int(input("Enter N: "))
 
 for i in range(11):
-    print(n*i)
+    print(n*i)'''
+    
+   
+'''#Q11
+    
+=1
+n=int(input("Enter N: "))
+sum=0
+while i<=n:
+    sum+=i
+    i+=1
+    
+print(sum)'''
+
+#Q12
+
+i=0
+n=int(input("Enter N: "))
+fact=1
+for i in range(1,n+1):
+    fact*=i
+    
+print(fact)
+ 
+
+    
+
