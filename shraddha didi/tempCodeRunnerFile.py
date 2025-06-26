@@ -1,2 +1,4 @@
-def len1(list):
-#     print(len(list))
+print(s1.name)
+
+# s2=Student()
+# print(s2.name)
